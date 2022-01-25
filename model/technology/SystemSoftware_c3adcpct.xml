@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ADCPCT"
+    id="c3adcpct">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Comentarios"
+      value="Plan estratégico: Periodos de cotización"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Claves utilizadas"
+      value="DP-SPD-PECOT"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Espacio asignado"
+      value="55099"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="DDM"
+      value="C3UDCPCT"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

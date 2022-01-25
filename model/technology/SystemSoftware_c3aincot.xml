@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AINCOT"
+    id="c3aincot">
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="C3UINCOT"/>
+  <properties
+      key="Comentarios"
+      value="Informe de cotización"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Espacio asignado"
+      value="2275"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_INFOCOT"/>
+  <properties
+      key="Fase de la prestación"
+      value="Impresión y envío"/>
+</archimate:SystemSoftware>

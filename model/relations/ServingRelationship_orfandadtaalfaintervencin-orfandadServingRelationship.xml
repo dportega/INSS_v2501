@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="orfandadtaalfaintervencin-orfandadServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_intervencin-orfandad.xml#intervencin-orfandad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_orfandadtaalfa.xml#orfandadtaalfa"/>
+</archimate:ServingRelationship>

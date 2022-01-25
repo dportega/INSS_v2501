@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="defuncinoauxiliopordefuncintmalfaintervencin-auxiliopordefuncinServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_intervencin-auxiliopordefuncin.xml#intervencin-auxiliopordefuncin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_defuncinoauxiliopordefuncintmalfa.xml#defuncinoauxiliopordefuncintmalfa"/>
+</archimate:ServingRelationship>

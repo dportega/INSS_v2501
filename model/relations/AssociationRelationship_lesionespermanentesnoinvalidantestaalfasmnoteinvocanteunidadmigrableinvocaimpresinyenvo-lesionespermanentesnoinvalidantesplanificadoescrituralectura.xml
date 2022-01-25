@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="lesionespermanentesnoinvalidantestaalfasmnoteinvocanteunidadmigrableinvocaimpresinyenvo-lesionespermanentesnoinvalidantesplanificadoescrituralectura">
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <properties
+      key="Descripción"
+      value="Impresión de resoluciones enviadas por circuito SMNOTE o por el Tren de impresión"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Impresión y envío - Lesiones Permanentes no invalidantes"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Externa (GISS)"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_impresinyenvo-lesionespermanentesnoinvalidantes.xml#impresinyenvo-lesionespermanentesnoinvalidantes"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_smnote.xml#smnote"/>
+</archimate:AssociationRelationship>

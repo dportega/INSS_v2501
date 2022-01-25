@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ATIRPF"
+    id="c3atirpf">
+  <properties
+      key="Espacio asignado"
+      value="2"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_RETENCION_E"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="C3UTIRPF"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_RETENCIONID_RETENCION_E"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Comentarios"
+      value="Tabla de IRPF"/>
+</archimate:SystemSoftware>

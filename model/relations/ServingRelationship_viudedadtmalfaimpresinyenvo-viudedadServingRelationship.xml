@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="viudedadtmalfaimpresinyenvo-viudedadServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_impresinyenvo-viudedad.xml#impresinyenvo-viudedad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_viudedadtmalfa.xml#viudedadtmalfa"/>
+</archimate:ServingRelationship>

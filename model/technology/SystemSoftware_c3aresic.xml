@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ARESIC"
+    id="c3aresic">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="DDM"
+      value="C3URESIC"/>
+  <properties
+      key="Comentarios"
+      value="Códigos de usuario tipo Carpa para cada usuario Silcon"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_USUSILCON"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Espacio asignado"
+      value="1"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+</archimate:SystemSoftware>

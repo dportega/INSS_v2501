@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AEXPED"
+    id="c3aexped">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="C3UEXPED"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Comentarios"
+      value="Expediente"/>
+  <properties
+      key="Espacio asignado"
+      value="8676"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_EXPEDID_TIPPREEXPID_LACOBEXPEEX-SPD-SICRES"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

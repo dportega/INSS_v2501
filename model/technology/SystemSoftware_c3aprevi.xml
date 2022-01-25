@@ -1,0 +1,65 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3APREVI"
+    id="c3aprevi">
+  <properties
+      key="Claves utilizadas"
+      value="ID_PROPEVI   ID_SESIONEXP ID_SESEXPASO"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_PROPEVIID_SESIONEXPID_EXPEDPROPID_SESEXPASO"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Fase de la prestación"
+      value="Impresión y envío"/>
+  <properties
+      key="Espacio asignado"
+      value="1920"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="DDM"
+      value="C3UPREVI"/>
+  <properties
+      key="Comentarios"
+      value="Dictamen propuesta EVI"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Resolución y cierre"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+</archimate:SystemSoftware>

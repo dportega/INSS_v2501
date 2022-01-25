@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="lesionespermanentesnoinvalidantestmalfatgssafiliacininvocanteunidadmigrableinvocacaptura-lesionespermanentesnoinvalidantesonlinelectura">
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Externa (GISS)"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Lesiones Permanentes no invalidantes"/>
+  <properties
+      key="Descripción"
+      value="Consulta datos vida laboral, jornadas, datos empresa, candidatos de un IPF,"/>
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-lesionespermanentesnoinvalidantes.xml#captura-lesionespermanentesnoinvalidantes"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tgssafiliacin.xml#tgssafiliacin"/>
+</archimate:AssociationRelationship>

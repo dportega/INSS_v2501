@@ -1,0 +1,194 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesiones Permanentes No Invalidantes TM (ALFA)"
+    id="lesionespermanentesnoinvalidantestmalfa">
+  <properties
+      key="Necesidad para el servicio"
+      value="Bajo"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Nombre"
+      value="Lesiones Permanentes No Invalidantes TM (ALFA)"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Versión"
+      value="05/09/2018"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Descripción"
+      value="Trámite de la prestación por lesiones permanentes no invalidantes (manual)"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="Sí"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Gestor de calidad"
+      value="Anaconda"/>
+  <properties
+      key="Auditorías"
+      value="Sí"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Herramientas"
+      value="Varias"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="NA"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="Entre 0 y 10"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Mainframe"/>
+  <properties
+      key="Cambio de configuración"
+      value="Base de Datos de configuraciones"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Punto de acceso"
+      value="Varias"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural + Java (Pros@)"/>
+  <properties
+      key="Firma digital"
+      value="Sí"/>
+  <properties
+      key="Horas de soporte"
+      value="Entre 0 y 100"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="01/01/1992"/>
+  <properties
+      key="Responsable del área de servicio de CDINSS"
+      value="Pedro Casado Ruperez"/>
+  <properties
+      key="Código ROCHADE"
+      value="C3XX"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Coordinador de área"
+      value="Guadalupe Muñoz Carmona"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Área funcional"
+      value="SSGG de PRESTACIONES"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Tipo de impresión"
+      value="Varias"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Andrés Peidro Guerrero"/>
+  <properties
+      key="Generación de informes"
+      value="Varios"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="No"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Distribución"
+      value="Varios"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Logs"
+      value="Repositorio de logs"/>
+  <properties
+      key="Uso de tablas SILGTB"
+      value="Más de 15"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Portales"
+      value="Sí"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="Entre 0 y 100"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Medio"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Elena Fernández García de los Ríos"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+</archimate:ApplicationComponent>

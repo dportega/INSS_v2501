@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="jubilacintaalfatgssrecaudacininvocanteunidadmigrableinvocacaptura-jubilacinonlinelectura">
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Jubilación"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Externa (GISS)"/>
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Descripción"
+      value="Bases AT/EP, datos recaudación."/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tgssrecaudacin.xml#tgssrecaudacin"/>
+</archimate:AssociationRelationship>

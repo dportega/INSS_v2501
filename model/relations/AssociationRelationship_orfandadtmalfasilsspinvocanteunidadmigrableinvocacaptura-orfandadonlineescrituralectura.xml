@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="orfandadtmalfasilsspinvocanteunidadmigrableinvocacaptura-orfandadonlineescrituralectura">
+  <properties
+      key="Descripción"
+      value="Alta personas físicas, apertura expediente, comunicación SGDA."/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Orfandad"/>
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-orfandad.xml#captura-orfandad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_silssp.xml#silssp"/>
+</archimate:AssociationRelationship>

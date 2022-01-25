@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3A52GEN"
+    id="c3a52gen">
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Espacio asignado"
+      value="750"/>
+  <properties
+      key="Claves utilizadas"
+      value="G5-NUM-SNAFG5-SPD-APENOM  G5-SPD-ALFAHIS G5-SPD-SITFECHA"/>
+  <properties
+      key="Comentarios"
+      value="Estudio Carencia Subsidio mayor 52 años: Datos generales del estudio"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="C3U52GEN"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+</archimate:SystemSoftware>

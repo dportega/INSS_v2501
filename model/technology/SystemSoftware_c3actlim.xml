@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ACTLIM"
+    id="c3actlim">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="DDM"
+      value="C3UAN3D3"/>
+  <properties
+      key="Fase de la prestación"
+      value="Resolución y cierre"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Comentarios"
+      value="Control de las impresiones del circuito de impresión masiva y notificaciones telemáticas"/>
+  <properties
+      key="Espacio asignado"
+      value="7236"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Claves utilizadas"
+      value="IM-COD-EXPED IM-SPD-FECEXPED"/>
+  <properties
+      key="Espacio asignado"
+      value="391"/>
+  <properties
+      key="DDM"
+      value="C3UCTLIM"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AACBCI"
+    id="c3aacbci">
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Claves utilizadas"
+      value="BI-SPD-ACBCI"/>
+  <properties
+      key="DDM"
+      value="C3UACBCI"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Espacio asignado"
+      value="6663"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Comentarios"
+      value="Integración Proyecto Alfa en Carpa3: Bases AT y EP de últimos 36 meses (Incapacidad)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,62 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3A3D29G"
+    id="c3a3d29g">
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Espacio asignado"
+      value="5108"/>
+  <properties
+      key="DDM"
+      value="C3U3D29G"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_3D29G"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Resolución y cierre"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_3D29G RG-SPD-EXPEGISS"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="Ficha 3D29 enviada por GISS con datos de otras prestaciones"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

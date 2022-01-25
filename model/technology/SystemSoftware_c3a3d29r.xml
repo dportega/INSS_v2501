@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3A3D29R"
+    id="c3a3d29r">
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_3D29R"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="C3U3D29R"/>
+  <properties
+      key="Fase de la prestación"
+      value="Resolución y cierre"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Comentarios"
+      value="Ficha 3D29 de trabajo"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Espacio asignado"
+      value="1579"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+</archimate:SystemSoftware>

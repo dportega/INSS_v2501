@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="indemnizacinporfallecimientoindemnizacinporfallecimientotmalfaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_indemnizacinporfallecimientotmalfa.xml#indemnizacinporfallecimientotmalfa"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_indemnizacinporfallecimiento.xml#indemnizacinporfallecimiento"/>
+</archimate:ServingRelationship>

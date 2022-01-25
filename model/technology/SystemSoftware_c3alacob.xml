@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ALACOB"
+    id="c3alacob">
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Impresión y envío"/>
+  <properties
+      key="Comentarios"
+      value="Datos laborales y de cobro"/>
+  <properties
+      key="DDM"
+      value="C3ULACOB"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Claves utilizadas"
+      value="LA-COD-EXPED"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Espacio asignado"
+      value="5073"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+</archimate:SystemSoftware>

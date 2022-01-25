@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AALEST"
+    id="c3aalest">
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="C3UALEST"/>
+  <properties
+      key="Espacio asignado"
+      value="115"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Comentarios"
+      value="Proyecto ALFA: datos de acceso para estadísticas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="AE-SPD-USUFECAE-SPD-FECUSUAE-SPD-EXPORIG"/>
+</archimate:SystemSoftware>

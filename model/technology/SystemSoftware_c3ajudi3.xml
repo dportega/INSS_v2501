@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AJUDI3"
+    id="c3ajudi3">
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Espacio asignado"
+      value="2"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Claves utilizadas"
+      value="J3-SPD-IDPREST J3-SPD-IPF    J3-SPD-IDEXPEDJ3-SPD-IPFSOLO"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="Diarios de Trabajo para jubilaciones anticipadas causadas antes de 1-1-2002"/>
+  <properties
+      key="DDM"
+      value="C3UJUDI3"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+</archimate:SystemSoftware>

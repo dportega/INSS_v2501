@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3APRECA"
+    id="c3apreca">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Espacio asignado"
+      value="46"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Comentarios"
+      value="Datos básicos para precarga"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="DDM"
+      value="C3UPRECA"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="PR-COD-EXPEDPR-COD-RELACIONPR-SPD-INFEPOEXPR-SPD-RELACPREPR-SPD-APESOLI PR-SPD-IPFSOLI PR-SPD-APETITU PR-SPD-IPFTITU"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

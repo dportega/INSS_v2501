@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ATUSIT"
+    id="c3atusit">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Claves utilizadas"
+      value="TI-COD-IPFTI-COD-EXPED"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Espacio asignado"
+      value="1123"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Comentarios"
+      value="Tu Seguridad Social (TUSS): histórico de IT"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="C3UTUSIT"/>
+</archimate:SystemSoftware>

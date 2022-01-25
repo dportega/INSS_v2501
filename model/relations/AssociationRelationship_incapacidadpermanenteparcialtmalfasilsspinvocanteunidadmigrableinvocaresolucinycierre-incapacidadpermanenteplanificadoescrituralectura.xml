@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="incapacidadpermanenteparcialtmalfasilsspinvocanteunidadmigrableinvocaresolucinycierre-incapacidadpermanenteplanificadoescrituralectura">
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Descripción"
+      value="Confirmación de la Resolución en la B.D. de pensionistas"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Resolución y cierre - Incapacidad Permanente"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_resolucinycierre-incapacidadpermanente.xml#resolucinycierre-incapacidadpermanente"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_silssp.xml#silssp"/>
+</archimate:AssociationRelationship>

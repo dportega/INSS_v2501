@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="incapacidadpermanentetmalfatgssrecaudacininvocanteunidadmigrableinvocacaptura-incapacidadpermanenteonlinelectura">
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Incapacidad Permanente"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Descripción"
+      value="Bases AT/EP, datos recaudación."/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Externa (GISS)"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-incapacidadpermanente.xml#captura-incapacidadpermanente"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tgssrecaudacin.xml#tgssrecaudacin"/>
+</archimate:AssociationRelationship>

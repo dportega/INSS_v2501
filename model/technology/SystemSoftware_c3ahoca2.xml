@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AHOCA2"
+    id="c3ahoca2">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="C3AHOCA2"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Espacio asignado"
+      value="129"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="DDM"
+      value="C3UHOCA2"/>
+  <properties
+      key="Fase de la prestación"
+      value="Resolución y cierre"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Claves utilizadas"
+      value="H2-ID-HOJALC"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Comentarios"
+      value="AMPLIACIóN CAMPOS HOJA DE CÁLCULO"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+</archimate:SystemSoftware>

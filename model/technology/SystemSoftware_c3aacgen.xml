@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AACGEN"
+    id="c3aacgen">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="CG-SPD-ACGEN"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="DDM"
+      value="C3UACGEN"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Impresión y envío"/>
+  <properties
+      key="Comentarios"
+      value="Integración de Proyecto Alfa en Carpa3: Datos genéricos"/>
+  <properties
+      key="Espacio asignado"
+      value="10794"/>
+</archimate:SystemSoftware>

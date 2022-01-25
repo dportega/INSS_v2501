@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="incapacidadpermanenteparcialtmalfasartidoinvocanteunidadmigrableinvocaimpresinyenvo-incapacidadpermanenteplanificadolectura">
+  <properties
+      key="Descripción"
+      value="Envío a SARTIDO de los registros RUSESS generados por la impresión de comunicados"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Impresión y envío - Incapacidad Permanente"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_impresinyenvo-incapacidadpermanente.xml#impresinyenvo-incapacidadpermanente"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sartido.xml#sartido"/>
+</archimate:AssociationRelationship>

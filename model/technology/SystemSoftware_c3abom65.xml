@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ABOM65"
+    id="c3abom65">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="BO-SPD-BOM65"/>
+  <properties
+      key="DDM"
+      value="C3UBOM65"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Comentarios"
+      value="Cálculo edad 65 años teórica en colectivo de Bomberos profesionales"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Espacio asignado"
+      value="2"/>
+</archimate:SystemSoftware>

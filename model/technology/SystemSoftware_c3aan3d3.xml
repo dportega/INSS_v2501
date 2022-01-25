@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AAN3D3"
+    id="c3aan3d3">
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Comentarios"
+      value="Antecedentes de otras prestaciones"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="DDM"
+      value="C3UAN3D3"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_ANTEC3D3 AP-SPD-EXPEGISS"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_ANTEC3D3AP-SPD-EXPEGISS"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Espacio asignado"
+      value="7236"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+</archimate:SystemSoftware>

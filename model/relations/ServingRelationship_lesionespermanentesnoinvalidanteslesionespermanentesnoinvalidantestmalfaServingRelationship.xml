@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="lesionespermanentesnoinvalidanteslesionespermanentesnoinvalidantestmalfaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_lesionespermanentesnoinvalidantestmalfa.xml#lesionespermanentesnoinvalidantestmalfa"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_lesionespermanentesnoinvalidantes.xml#lesionespermanentesnoinvalidantes"/>
+</archimate:ServingRelationship>

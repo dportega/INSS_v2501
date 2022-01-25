@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="defuncinoauxiliopordefuncintaalfagesfirinvocadaunidadmigrableesinvocadaresolucinycierre-auxiliopordefuncinplanificadoescrituralectura">
+  <properties
+      key="Sentido de la integración"
+      value="Invocada (Unidad migrable es invocada)"/>
+  <properties
+      key="Descripción"
+      value="Gestión de firmas de notificaciones"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Resolución y cierre - Auxilio por Defunción"/>
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_resolucinycierre-auxiliopordefuncin.xml#resolucinycierre-auxiliopordefuncin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gesfir.xml#gesfir"/>
+</archimate:AssociationRelationship>

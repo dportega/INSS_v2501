@@ -1,0 +1,50 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AACBCT"
+    id="c3aacbct">
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Comentarios"
+      value="Integración de Alfa en Carpa3: Bases de Cotización y datos de Recaudación en Alfa"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="CB-SPD-ACBCT"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Espacio asignado"
+      value="149682"/>
+  <properties
+      key="DDM"
+      value="C3UACBCT"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+</archimate:SystemSoftware>

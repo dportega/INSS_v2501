@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ADCDES"
+    id="c3adcdes">
+  <properties
+      key="Claves utilizadas"
+      value="EM-SPD-AIPFNASS"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Comentarios"
+      value="Plan estratégico: Datos de las cargas de datos de la demanda de empleo"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Espacio asignado"
+      value="2163"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="C3UDCDES"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+</archimate:SystemSoftware>

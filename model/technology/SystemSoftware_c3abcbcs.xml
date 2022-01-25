@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ABCBCS"
+    id="c3abcbcs">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Espacio asignado"
+      value="1242"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Comentarios"
+      value="Integración Alfa en C3: Bases de Cotización superior a 1 mes/Cálculo de Integración"/>
+  <properties
+      key="DDM"
+      value="C3UBCBCS"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Claves utilizadas"
+      value="SB-SPD-BCBCS"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+</archimate:SystemSoftware>

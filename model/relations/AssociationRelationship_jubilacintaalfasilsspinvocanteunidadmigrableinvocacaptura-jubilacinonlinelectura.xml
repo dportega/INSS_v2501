@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="jubilacintaalfasilsspinvocanteunidadmigrableinvocacaptura-jubilacinonlinelectura">
+  <properties
+      key="Descripción"
+      value="Bases cotizadas, antecedentes, datos personales, datos complemento brecha género, histórico pagos, violencia género, confirmación certifiicados TUSS, datos personales DATA, cruce fallecidos."/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Jubilación"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_silssp.xml#silssp"/>
+</archimate:AssociationRelationship>

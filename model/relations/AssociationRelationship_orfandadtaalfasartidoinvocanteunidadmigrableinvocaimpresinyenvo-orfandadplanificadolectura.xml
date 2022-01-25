@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="orfandadtaalfasartidoinvocanteunidadmigrableinvocaimpresinyenvo-orfandadplanificadolectura">
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Impresión y envío - Orfandad"/>
+  <properties
+      key="Descripción"
+      value="Envío a SARTIDO de los registros RUSESS generados por la impresión de comunicados"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_impresinyenvo-orfandad.xml#impresinyenvo-orfandad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sartido.xml#sartido"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AESPRE"
+    id="c3aespre">
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="DDM"
+      value="C3UESPRE"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Claves utilizadas"
+      value="ES-SPD-FENTPRESES-SPD-FENTPRCPES-SPD-CODFECHAES-SPD-FENTCP  ES-SPD-FSALSIT ES-SPD-ESTFENT"/>
+  <properties
+      key="Espacio asignado"
+      value="467"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="Estadísticas entrada y salidas Premium"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

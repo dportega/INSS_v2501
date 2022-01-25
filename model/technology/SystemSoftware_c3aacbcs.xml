@@ -1,0 +1,50 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AACBCS"
+    id="c3aacbcs">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Comentarios"
+      value="Integración de Proyecto Alfa en Carpa3: Bases de Cotización del cálculo"/>
+  <properties
+      key="DDM"
+      value="C3UACBCS"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Captura"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Claves utilizadas"
+      value="CS-SPD-ACBCO"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Espacio asignado"
+      value="2426"/>
+</archimate:SystemSoftware>

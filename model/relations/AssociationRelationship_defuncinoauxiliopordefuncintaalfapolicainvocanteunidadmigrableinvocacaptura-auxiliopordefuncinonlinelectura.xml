@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="defuncinoauxiliopordefuncintaalfapolicainvocanteunidadmigrableinvocacaptura-auxiliopordefuncinonlinelectura">
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Auxilio por Defunción"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Externa (Otros)"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Descripción"
+      value="Servicio de verificación de datos de identidad de la policía."/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-auxiliopordefuncin.xml#captura-auxiliopordefuncin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_polica.xml#polica"/>
+</archimate:AssociationRelationship>

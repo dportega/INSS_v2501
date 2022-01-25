@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="defuncinoauxiliopordefuncintmalfasilsspinvocadaunidadmigrableesinvocadacaptura-auxiliopordefuncinonlineescrituralectura">
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Descripción"
+      value="Comunicación SGDA extracción código de expediente documental"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Captura - Auxilio por Defunción"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocada (Unidad migrable es invocada)"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-auxiliopordefuncin.xml#captura-auxiliopordefuncin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_silssp.xml#silssp"/>
+</archimate:AssociationRelationship>

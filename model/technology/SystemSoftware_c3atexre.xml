@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ATEXRE"
+    id="c3atexre">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Comentarios"
+      value="Migración de SAINTFORMS a BIRT. Textos de formularios en idiomas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Fase de la prestación"
+      value="Resolución y cierre"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Claves utilizadas"
+      value=" TX-SPD-DOCIDPA"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="DDM"
+      value="C3UTEXRE"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Espacio asignado"
+      value="0"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3A52TRZ"
+    id="c3a52trz">
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="DDM"
+      value="C3U52TRZ"/>
+  <properties
+      key="Fase de la prestación"
+      value="Trámite"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Claves utilizadas"
+      value="T5-SPD-FECHAHOR"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Espacio asignado"
+      value="272"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Estudio Carencia Subsidio mayor 52a.: datos traza para seguimiento de accesos"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+</archimate:SystemSoftware>

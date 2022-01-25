@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="jubilacinpremiumalfacaptura-jubilacinServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_jubilacinpremiumalfa.xml#jubilacinpremiumalfa"/>
+</archimate:ServingRelationship>

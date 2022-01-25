@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="jubilacintmalfagesfirinvocadaunidadmigrableesinvocadaresolucinycierre-jubilacinplanificadoescrituralectura">
+  <properties
+      key="Sentido de la integración"
+      value="Invocada (Unidad migrable es invocada)"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Resolución y cierre - Jubilación"/>
+  <properties
+      key="Descripción"
+      value="Gestión de firmas de notificaciones"/>
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_resolucinycierre-jubilacin.xml#resolucinycierre-jubilacin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gesfir.xml#gesfir"/>
+</archimate:AssociationRelationship>
