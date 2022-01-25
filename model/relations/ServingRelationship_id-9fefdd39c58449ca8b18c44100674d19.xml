@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9fefdd39c58449ca8b18c44100674d19">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-cdec31f188074fca805298a1f699a3ad.xml#id-cdec31f188074fca805298a1f699a3ad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_jubilacinpremiumalfa.xml#jubilacinpremiumalfa"/>
+</archimate:ServingRelationship>
