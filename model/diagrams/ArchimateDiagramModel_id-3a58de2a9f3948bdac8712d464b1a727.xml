@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for ALFA_Jubilación TA UM"
+    id="id-3a58de2a9f3948bdac8712d464b1a727"
+    viewpoint="layered">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ca020289a60141e093be0cfbc39464a0"
+      targetConnections="id-6014e228b6d24935bcdd6e0fccfbb786">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_alfajubilacintaum.xml#alfajubilacintaum"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a000a4a8e3a444c9af6083aa496dc35e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6014e228b6d24935bcdd6e0fccfbb786"
+        source="id-a000a4a8e3a444c9af6083aa496dc35e"
+        target="id-ca020289a60141e093be0cfbc39464a0">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_jubilacinpremiumalfaalfajubilacintauminvocanteunidadmigrableinvocatrmite-jubilacinplanificadoescrituralectura.xml#jubilacinpremiumalfaalfajubilacintauminvocanteunidadmigrableinvocatrmite-jubilacinplanificadoescrituralectura"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_trmite-jubilacin.xml#trmite-jubilacin"/>
+  </children>
+</archimate:ArchimateDiagramModel>
