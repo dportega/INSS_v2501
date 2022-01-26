@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e5493895890644a1b6f7b13bf980158c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_alfajubilacintaum.xml#alfajubilacintaum"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_jubilacin.xml#jubilacin"/>
+</archimate:ServingRelationship>
