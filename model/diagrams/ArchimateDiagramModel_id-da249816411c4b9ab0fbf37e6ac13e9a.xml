@@ -70,9 +70,8 @@
           endX="420"
           endY="-87"/>
       <bendpoints
-          startX="-407"
+          startX="-419"
           startY="135"
-          endX="12"
           endY="-87"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -637,7 +636,7 @@
       id="id-be25476bd6464680a7fed2c922b1c812"
       targetConnections="id-b8ccacb8f1c547db9f73f1fffa54530f">
     <bounds
-        x="-205"
+        x="-204"
         y="660"
         width="120"
         height="55"/>
