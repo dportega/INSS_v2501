@@ -49,11 +49,11 @@
       <bendpoints
           startY="-63"
           endX="-708"
-          endY="81"/>
+          endY="117"/>
       <bendpoints
           startX="708"
           startY="-63"
-          endY="81"/>
+          endY="117"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_jubilacintmalfacaptura-jubilacinServingRelationship.xml#jubilacintmalfacaptura-jubilacinServingRelationship"/>
@@ -165,7 +165,7 @@
     </sourceConnections>
     <bounds
         x="-300"
-        y="288"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -183,18 +183,18 @@
       <bendpoints
           startY="-63"
           endX="360"
-          endY="81"/>
+          endY="117"/>
       <bendpoints
           startX="-360"
           startY="-63"
-          endY="81"/>
+          endY="117"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_jubilacintmalfaimpresinyenvo-jubilacinServingRelationship.xml#jubilacintmalfaimpresinyenvo-jubilacinServingRelationship"/>
     </sourceConnections>
     <bounds
         x="768"
-        y="288"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -215,7 +215,7 @@
     </sourceConnections>
     <bounds
         x="408"
-        y="288"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -233,11 +233,11 @@
       <bendpoints
           startY="-63"
           endX="612"
-          endY="81"/>
+          endY="117"/>
       <bendpoints
           startX="-612"
           startY="-63"
-          endY="81"/>
+          endY="117"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_jubilacintmalfaresolucinycierre-jubilacinServingRelationship.xml#jubilacintmalfaresolucinycierre-jubilacinServingRelationship"/>
@@ -267,7 +267,7 @@
     </sourceConnections>
     <bounds
         x="1020"
-        y="288"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -285,18 +285,18 @@
       <bendpoints
           startY="-63"
           endX="-360"
-          endY="81"/>
+          endY="117"/>
       <bendpoints
           startX="360"
           startY="-63"
-          endY="81"/>
+          endY="117"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_jubilacintmalfatrmite-jubilacinServingRelationship.xml#jubilacintmalfatrmite-jubilacinServingRelationship"/>
     </sourceConnections>
     <bounds
         x="48"
-        y="288"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -309,7 +309,7 @@
       targetConnections="id-42804db1e1014c09b192e92b4d8932a3">
     <bounds
         x="-588"
-        y="432"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -322,7 +322,7 @@
       targetConnections="id-f21c95c47fcb402bab6f48022c8020d7">
     <bounds
         x="-396"
-        y="432"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -335,7 +335,7 @@
       targetConnections="id-e0e92b82c3e0497299a87ae370e104c4 id-611651c569c04d64b785d5d38ff7807a id-1ed8fc0f3bda441bb14c1b04c13600e7">
     <bounds
         x="-192"
-        y="432"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -348,7 +348,7 @@
       targetConnections="id-11705a96d78049969621ce65837ffc16">
     <bounds
         x="12"
-        y="432"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -361,7 +361,7 @@
       targetConnections="id-d4ca0dac11a34f93a248926caf69b065 id-9b01c5c06714445cadd474e5a5153c0f">
     <bounds
         x="1020"
-        y="432"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
