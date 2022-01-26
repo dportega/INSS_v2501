@@ -474,20 +474,6 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_jubilacintaalfagesfirinvocadaunidadmigrableesinvocadaresolucinycierre-jubilacinplanificadoescrituralectura.xml#jubilacintaalfagesfirinvocadaunidadmigrableesinvocadaresolucinycierre-jubilacinplanificadoescrituralectura"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b5e366036b8047c98139b5443ad66e2b"
-        source="id-163975e7a7e545dea0f78b5422e2b749"
-        target="id-5df6f57fd398467c849265e0dd6fc416">
-      <bendpoints
-          startX="24"
-          startY="141"
-          endX="24"
-          endY="-75"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_jubilacintaalfagesfirinvocanteunidadmigrableinvocaresolucinycierre-jubilacinplanificadoescrituralectura.xml#jubilacintaalfagesfirinvocanteunidadmigrableinvocaresolucinycierre-jubilacinplanificadoescrituralectura"/>
-    </sourceConnections>
     <bounds
         x="1440"
         y="444"
@@ -673,7 +659,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5df6f57fd398467c849265e0dd6fc416"
-      targetConnections="id-3215ebd3e72645e58c56c40b0b9a7ebb id-0d9519af7fc340a389e8795b9cde8e7b id-b5e366036b8047c98139b5443ad66e2b">
+      targetConnections="id-3215ebd3e72645e58c56c40b0b9a7ebb id-0d9519af7fc340a389e8795b9cde8e7b">
     <bounds
         x="1440"
         y="660"
