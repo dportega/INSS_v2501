@@ -25,7 +25,7 @@
       value="Externa (Otros)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+      href="ApplicationFunction_id-d2ede8b8e85a4a2cb956e42c32adbd87.xml#id-d2ede8b8e85a4a2cb956e42c32adbd87"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_polica.xml#polica"/>

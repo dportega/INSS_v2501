@@ -25,7 +25,7 @@
       value="Trámite - Jubilación"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_trmite-jubilacin.xml#trmite-jubilacin"/>
+      href="ApplicationFunction_id-ce44100977df4c76af10cd93f664acb2.xml#id-ce44100977df4c76af10cd93f664acb2"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_sartido.xml#sartido"/>

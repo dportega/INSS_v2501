@@ -25,7 +25,7 @@
       value="Planificado"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_resolucinycierre-jubilacin.xml#resolucinycierre-jubilacin"/>
+      href="ApplicationFunction_id-4d0e7cbfed8943689bc13ecf44dbb8d5.xml#id-4d0e7cbfed8943689bc13ecf44dbb8d5"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_silssp.xml#silssp"/>

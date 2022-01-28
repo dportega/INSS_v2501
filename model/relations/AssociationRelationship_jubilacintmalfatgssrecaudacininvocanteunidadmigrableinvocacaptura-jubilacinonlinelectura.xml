@@ -25,7 +25,7 @@
       value="Online"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+      href="ApplicationFunction_id-5ccd1fd1bf1a4e7184cf481825769c34.xml#id-5ccd1fd1bf1a4e7184cf481825769c34"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tgssrecaudacin.xml#tgssrecaudacin"/>

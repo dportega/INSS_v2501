@@ -25,7 +25,7 @@
       value="Batch"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_resolucinycierre-jubilacin.xml#resolucinycierre-jubilacin"/>
+      href="ApplicationFunction_id-2c15d47821f447019887ffd0568f1d52.xml#id-2c15d47821f447019887ffd0568f1d52"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_gesfir.xml#gesfir"/>

@@ -25,7 +25,7 @@
       value="Lectura"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+      href="ApplicationFunction_id-d28a2ab958ed46969b81256588aa7176.xml#id-d28a2ab958ed46969b81256588aa7176"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_silssp.xml#silssp"/>

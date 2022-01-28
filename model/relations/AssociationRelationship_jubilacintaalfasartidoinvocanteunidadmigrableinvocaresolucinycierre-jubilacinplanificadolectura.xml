@@ -25,7 +25,7 @@
       value="Envío a SARTIDO de los registros RUSESS generados por la impresión de comunicados"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_resolucinycierre-jubilacin.xml#resolucinycierre-jubilacin"/>
+      href="ApplicationFunction_id-c342702d4cf441aa9e316cb05739f37a.xml#id-c342702d4cf441aa9e316cb05739f37a"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_sartido.xml#sartido"/>

@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c64f1c76489f434aa881cf2aacb86c44">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gesfir.xml#gesfir"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-2c15d47821f447019887ffd0568f1d52.xml#id-2c15d47821f447019887ffd0568f1d52"/>
+</archimate:TriggeringRelationship>

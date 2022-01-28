@@ -40,8 +40,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8ccf2fb55f654476a3ae046b636ad3b5"
-      targetConnections="id-3085c082b3f14728bac66b3d95737386 id-1b81a36d474e4161aaab71dfb76893f2">
+      id="id-8ccf2fb55f654476a3ae046b636ad3b5">
     <bounds
         x="72"
         y="360"
@@ -62,24 +61,6 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_jubilacintmalfacaptura-jubilacinServingRelationship.xml#jubilacintmalfacaptura-jubilacinServingRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3085c082b3f14728bac66b3d95737386"
-        source="id-12077b8525e548999e76f4f0b7ede68d"
-        target="id-8ccf2fb55f654476a3ae046b636ad3b5">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_jubilacintaalfaatriuminvocadaunidadmigrableesinvocadacaptura-jubilacindiferidoescrituralectura.xml#jubilacintaalfaatriuminvocadaunidadmigrableesinvocadacaptura-jubilacindiferidoescrituralectura"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-1b81a36d474e4161aaab71dfb76893f2"
-        source="id-12077b8525e548999e76f4f0b7ede68d"
-        target="id-8ccf2fb55f654476a3ae046b636ad3b5">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_jubilacintaalfaatriuminvocanteunidadmigrableinvocacaptura-jubilacindiferidoescrituralectura.xml#jubilacintaalfaatriuminvocanteunidadmigrableinvocacaptura-jubilacindiferidoescrituralectura"/>
     </sourceConnections>
     <bounds
         x="72"

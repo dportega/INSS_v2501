@@ -25,7 +25,7 @@
       value="Procedimiento almacenado/Natural"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+      href="ApplicationFunction_id-3fddd6adeeeb4730a3c2e4ed20b19ec9.xml#id-3fddd6adeeeb4730a3c2e4ed20b19ec9"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tgssafiliacin.xml#tgssafiliacin"/>

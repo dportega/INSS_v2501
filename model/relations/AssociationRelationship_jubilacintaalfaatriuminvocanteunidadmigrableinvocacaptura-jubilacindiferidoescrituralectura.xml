@@ -25,7 +25,7 @@
       value="Diferido"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+      href="ApplicationFunction_id-6d4c203f31734d218507a2ea38e93065.xml#id-6d4c203f31734d218507a2ea38e93065"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_atrium.xml#atrium"/>

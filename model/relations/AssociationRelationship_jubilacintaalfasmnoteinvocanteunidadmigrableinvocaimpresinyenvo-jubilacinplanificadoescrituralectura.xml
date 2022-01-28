@@ -25,7 +25,7 @@
       value="Impresión y envío - Jubilación"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_impresinyenvo-jubilacin.xml#impresinyenvo-jubilacin"/>
+      href="ApplicationFunction_id-44e79671218341f7aa9b6731e8721a92.xml#id-44e79671218341f7aa9b6731e8721a92"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_smnote.xml#smnote"/>

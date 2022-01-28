@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8f7f91a9975e472cb388c673bc48c7c7">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_captura-jubilacin.xml#captura-jubilacin"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-65f6e34cf2ee43419775f6702c6ea7ed.xml#id-65f6e34cf2ee43419775f6702c6ea7ed"/>
+</archimate:CompositionRelationship>
